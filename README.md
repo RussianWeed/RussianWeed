@@ -1,4 +1,4 @@
-# Hi there, I'm [Kalpak Lahiri] 👋
+# Hi there, I'm Kalpak Lahiri 👋
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
 
