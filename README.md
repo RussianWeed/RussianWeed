@@ -1,6 +1,12 @@
 # Hi there, I'm [Kalpak Lahiri] 👋
 
-I'm a **Software Engineer** passionate about technology and problem-solving. Currently, I'm focusing on **Android development** using Java, and I have experience in various programming languages and tools.
+<div style="display: flex; justify-content: space-between; align-items: center;">
+
+   <div>
+    <img src="https://github.com/RussianWeed/RussianWeed/blob/main/6d802ffd14b32795b4deb0b886a7815a.gif" width="300"/>
+  </div>
+  
+  <div>
 
 ## 🔧 Technologies & Skills
 - **Android Development**: Java, XML, Android SDK
@@ -26,3 +32,6 @@ Feel free to check out my repositories for more about my projects. I'm always op
 
 ---
 *Powered by a passion for coding and continuous learning!*
+
+  </div>
+  <div>
